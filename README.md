@@ -1,6 +1,8 @@
 # 说明
 
-通过js将html生成docx的demo
+/ 通过js将html生成docx的demo
+
+/docx   docxtemplater的使用，js用模板导出docx demo
 
 
 # 源码使用方法

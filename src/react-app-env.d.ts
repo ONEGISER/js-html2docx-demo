@@ -24,3 +24,13 @@ declare module "uuid"
 declare var SuperMapTerrainProvider: any
 declare module "s3m_parser_es6/S3MTiles/S3MTilesLayer"
 
+declare module "jszip-utils"{
+    const JSZipUtils: any;
+    export = JSZipUtils;
+}
+
+declare module "docxtemplater-image-module-free"{
+    const ImageModule: any;
+    export = ImageModule;
+}
+
